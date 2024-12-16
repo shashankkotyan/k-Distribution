@@ -25,6 +25,7 @@ If you find this project useful please cite:
 ```
 @article{kotyan2024kdistribution,
   title={{{k* Distribution}}: Evaluating the {{Latent Space}} of {{Deep Neural Networks}} Using {{Local Neighborhood Analysis}}},
+  shorttitle = {{{k* Distribution}}},
   author={Kotyan, Shashank and Ueda, Tatsuya and Vargas, Danilo Vasconcellos},
   journal={IEEE Transactions on Neural Networks and Learning Systems},
   year={2024},
