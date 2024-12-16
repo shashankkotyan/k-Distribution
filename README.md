@@ -4,7 +4,7 @@
 
 </div>
 
-Source for the article: [k* Distribution: Evaluating the Latent Space of Deep Neural Networks using Local Neighborhood Analysis](https://arxiv.org/abs/2312.04024)
+Source for the article: [k* Distribution: Evaluating the Latent Space of Deep Neural Networks using Local Neighborhood Analysis](https://ieeexplore.ieee.org/document/10680459)
 
 ## 🌟 Features
 
@@ -24,14 +24,10 @@ If you find this project useful please cite:
 
 ```
 @article{kotyan2024kdistribution,
-    title = {k* {{Distribution}}: {{Evaluating}} the {{Latent Space}} of {{Deep Neural Networks}} Using {{Local Neighborhood Analysis}}},
-    shorttitle = {k* {{Distribution}}},
-    author = {Kotyan, Shashank and Tatsuya, Ueda and Vargas, Danilo Vasconcellos},
-    year = {2023},
-    month = dec,
-    number = {arXiv:2312.04024},
-    eprint = {2312.04024},
-    publisher = {{arXiv}},
-    doi = {10.48550/arXiv.2312.04024},
+  title={{{k* Distribution}}: Evaluating the {{Latent Space}} of {{Deep Neural Networks}} Using {{Local Neighborhood Analysis}}},
+  author={Kotyan, Shashank and Ueda, Tatsuya and Vargas, Danilo Vasconcellos},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2024},
+  publisher={IEEE}
 }
 ```
